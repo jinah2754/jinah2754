@@ -1,4 +1,9 @@
 ### Hi there 👋
+## 글자
+# 더 큰 글자
+
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+
 
 <!--
 **jinah2754/jinah2754** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
